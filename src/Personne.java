@@ -13,7 +13,7 @@ public class Personne {
 
 
     public String toString() {
-        return "nom"+this.nom+"prenom"+this.prenom+"tel"+this.tel+"mail"+this.mail;
+        return "nom:  "+this.nom+"  prenom:  "+this.prenom+"   tel:  "+this.tel+"  mail:  "+this.mail;
     }
 
     /* getters and setters */
